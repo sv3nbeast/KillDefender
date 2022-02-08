@@ -1,5 +1,5 @@
 # KillDefender
-* 参考项目: https://github.com/pwn1sher/KillDefender
+* 参考项目: https://github.com/pwn1sher/KillDefender(本人使用这个项目是利用失败的)
 * 参考文章: https://elastic.github.io/security-research/whitepapers/2022/02/02.sandboxing-antimalware-products-for-fun-and-profit/article/
 ### 使用前提:
 * System权限
